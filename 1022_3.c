@@ -1,4 +1,3 @@
-//2610180082 1年1組　39番　水野響 課題8
 
 #include <glsc.h>
 #include <stdio.h>
